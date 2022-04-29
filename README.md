@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Chess game created with React JS, Typescript
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
